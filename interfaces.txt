@@ -1,0 +1,15 @@
+interface entre componentes (frontend vue)
+no vue os contratos ente componentes sao definidos por props (oq componente recebe)
+emits: oq componente dispara
+as vezes provides/inject/store
+
+
+interface entre back e front (APO contract)
+qnd uso node no back, o contrato é a API
+que rotas existem, quais campos ela recebe
+oq ela retorna 
+formato (json)
+status http
+
+interface entre componentes -> front
+front e back ->back (api)
